@@ -54,7 +54,6 @@ public class CharCreation
             switch(cInput)
             {
                 case '1':
-                //System.out.println("Input name: ");
                 inputName();
                 break;
             
